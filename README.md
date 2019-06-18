@@ -14,4 +14,4 @@ In this example we explore some properties of the Form which include.
 As a bonus, I've implemented a `Bindable` data object to fully utilise SwiftUI capabilities.
 I've also included a function to send the order to a fictious server that responds with the exact same payload.
 
-![image-of-running-sample-app]()
+![image-of-running-sample-app](img/Sample-app.png)

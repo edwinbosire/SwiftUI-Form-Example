@@ -19,3 +19,6 @@ I've also included a function to send the order to a fictious server that respon
 ![image-of-running-sample-app](img/1-Sample-app.png)
 ![image-of-running-sample-app-dynamic-list](img/2-dynamic-list-content.png)
 ![image-of-running-sample-app-picker](img/3-picker-view-detail-view.png)
+
+
+All credit to [Paul Hudson](https://twitter.com/twostraws) for this wonderful tutorial
